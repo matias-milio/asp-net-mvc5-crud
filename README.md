@@ -2,9 +2,9 @@
 As the title says, the WebApp does some basic CRUD operations over one master table and it's relations.
 
 It uses features like:
-*N-Layer Arquitecture
-*Entity Framework
-*Repository Pattern
+* N-Layer Arquitecture
+* Entity Framework
+* Repository Pattern
 *Unit Of Work Classes
 *AutoMapper with custom profiles
 *Unity Dependency Injection
