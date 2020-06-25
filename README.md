@@ -19,6 +19,7 @@ Don't forget to update your connection string in the web.config file.
 The styles of the views are a work in progress.
 
 Next version will be using HTML Pages with AJAX calls to the controllers methods instead of views with razor.
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 # CRUD DE TIENDA EN ASP.NET MVC 5
@@ -39,6 +40,6 @@ Hace uso de :
 El script creacional (db-creation-script.sql) de la base de datos incluye algunos datos para las tablas clave-valor.
 No olvides actualizar con tu cadena de conexion el web.config.
 
-Los estilos de las vistas estan pendientes. 
+Los estilos de las vistas estan pendientes.
 
 La proxima version sera el mismo crud pero con paginas HTML y llamados AJAX con jQuery en lugar de vistas con razor.
