@@ -1,0 +1,4 @@
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DTO\bin\Debug\DTO.dll
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DTO\bin\Debug\DTO.pdb
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DTO\obj\Debug\DTO.dll
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DTO\obj\Debug\DTO.pdb

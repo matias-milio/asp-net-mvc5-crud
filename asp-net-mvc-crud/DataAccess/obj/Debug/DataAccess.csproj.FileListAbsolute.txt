@@ -1,0 +1,12 @@
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\DTO.dll
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\DTO.pdb
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gaudi\Documents\portfolio\asp-net-crud-mvc\asp-net-mvc-crud\DataAccess\obj\Debug\DataAccess.pdb
