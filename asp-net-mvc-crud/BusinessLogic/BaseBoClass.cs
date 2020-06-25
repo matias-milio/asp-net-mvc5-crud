@@ -14,9 +14,8 @@ namespace BusinessLogic
         protected  private IMapper mapper;
         protected  private string cacheKey;
 
-        public BaseBoClass()
-        {
+        public BaseBoClass() =>        
             repository = new BaseRepository<TEntity>(new MyStoreDbEntities());            
-        }
+        
     }
 }

@@ -114,6 +114,7 @@ namespace asp_net_mvc_crud.Controllers
                 entity.Name = editedProduct.Name;
                 entity.Price = editedProduct.Price;
                 entity.Stock = editedProduct.Stock;
+                productsBO.Update(editedProduct.Id, entity);
                 return RedirectToAction("Index");
             }
             catch (Exception ex)
